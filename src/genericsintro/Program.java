@@ -1,6 +1,7 @@
-package introgenerics;
+package genericsintro;
 
-import introgenerics.services.PrintService;
+import genericsdelimitados.entities.Product;
+import genericsdelimitados.services.PrintService;
 
 import java.util.Scanner;
 

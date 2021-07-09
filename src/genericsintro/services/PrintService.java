@@ -1,4 +1,4 @@
-package introgenerics.services;
+package genericsdelimitados.services;
 
 import java.util.ArrayList;
 import java.util.List;
